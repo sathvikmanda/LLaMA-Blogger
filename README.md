@@ -15,7 +15,7 @@ This project demonstrates how large language models (LLMs) can be harnessed for 
 🚀 Getting Started
 
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/llama-bloggen.git
+git clone https://github.com/sathvikmanda/LLaMA-Blogger.git
 cd llama-bloggen
 2️⃣ Install Dependencies
 pip install -r requirements.txt
